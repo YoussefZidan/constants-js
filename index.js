@@ -1,4 +1,4 @@
-export const languages = [
+const languages = [
   { code: "ab", name: "Abkhazian" },
   { code: "aa", name: "Afar" },
   { code: "af", name: "Afrikaans" },
@@ -188,7 +188,7 @@ export const languages = [
   { code: "zu", name: "Zulu" },
 ];
 
-export const countries = [
+const countries = [
   { name: "Afghanistan", dial_code: "+93", code: "AF" },
   { name: "Albania", dial_code: "+355", code: "AL" },
   { name: "Algeria", dial_code: "+213", code: "DZ" },
@@ -484,14 +484,14 @@ export const countries = [
   { name: "Åland Islands", dial_code: "+358", code: "AX" },
 ];
 
-export const duration = {
+const duration = {
   day: 8.64e7,
   week: 6.048e8,
   month: 2.592e9,
   year: 3.154e10,
 };
 
-export const status = {
+const status = {
   continue: 100,
   switching_protocols: 101,
   processing: 102,
@@ -554,4 +554,11 @@ export const status = {
   not_extended: 510,
   network_authentication_required: 511,
   network_connect_timeout_error: 599,
+};
+
+module.exports = {
+  languages,
+  countries,
+  duration,
+  status,
 };

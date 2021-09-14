@@ -1,5 +1,5 @@
 {
-  "name": "constants",
+  "name": "constants-js",
   "version": "1.0.0",
   "description": "JavaScript Reusable Constants",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/YoussefZidan/constants-js/issues"
   },
-  "homepage": "https://github.com/YoussefZidan/constants-js#readme"
+  "homepage": "https://github.com/YoussefZidan/constants-js#readme",
+  "dependencies": {
+    "constants-js": "^1.0.0"
+  }
 }

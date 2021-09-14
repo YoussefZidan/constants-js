@@ -1,10 +1,22 @@
-## Constants.js 
+## Constants.js <!-- omit in toc -->
 
-- [Constants.js](#constantsjs)
-  - [Languages](#languages)
-  - [Countries](#countries)
-  - [Durations](#durations)
-  - [Status Codes](#status-codes)
+- [Usage](#usage)
+- [Languages](#languages)
+- [Countries](#countries)
+- [Durations](#durations)
+- [Status Codes](#status-codes)
+
+### Usage
+
+```js
+// Node
+const { languages } = require("constants-js");
+
+// ES6
+import { languages } from "constants-js";
+
+console.log(languages);
+```
 
 ### Languages
 

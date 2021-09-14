@@ -1,12 +1,23 @@
 {
   "name": "constants",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript Reusable Constants",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [
+    "constants",
+    "countries",
+    "durations",
+    "status code",
+    "languages"
+  ],
+  "author": "Youssef Zidan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoussefZidan/constants-js.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/YoussefZidan/constants-js/issues"
+  },
+  "homepage": "https://github.com/YoussefZidan/constants-js#readme"
 }

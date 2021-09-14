@@ -651,8 +651,8 @@ const islamicMonths = {
   shaaban: { label_en: "Shaaban", label_ar: "شَعْبَان", value: 7 },
   ramadan: { label_en: "Ramadan", label_ar: "رَمَضَان", value: 8 },
   shawwal: { label_en: "Shawwal", label_ar: "شَوَّال", value: 9 },
-  auAlQaida: { label_en: "Zu Al-Qaida", label_ar: "ذُو ٱلْقَعْدَة", value: 10 },
-  auAlHijja: { label_en: "Zu Al-Hijja", label_ar: "ذُو ٱلْحِجَّة", value: 11 },
+  zuAlQaida: { label_en: "Zu Al-Qaida", label_ar: "ذُو ٱلْقَعْدَة", value: 10 },
+  zuAlHijja: { label_en: "Zu Al-Hijja", label_ar: "ذُو ٱلْحِجَّة", value: 11 },
 };
 ```
 

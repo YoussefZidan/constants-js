@@ -1,5 +1,6 @@
 ## Constants.js <!-- omit in toc -->
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [Languages](#languages)
 - [Countries](#countries)
@@ -8,6 +9,12 @@
 - [Months](#months)
 - [Islamic Months](#islamic-months)
 - [Continents](#continents)
+
+### Installation
+
+```
+npm i constants-js
+```
 
 ### Usage
 

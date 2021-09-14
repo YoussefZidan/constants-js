@@ -1,6 +1,6 @@
 {
   "name": "constants-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "JavaScript Reusable Constants",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,10 @@
     "countries",
     "durations",
     "status code",
-    "languages"
+    "languages",
+    "months",
+    "islamic months",
+    "continents"
   ],
   "author": "Youssef Zidan",
   "license": "ISC",

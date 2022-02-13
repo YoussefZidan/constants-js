@@ -24,7 +24,7 @@ console.log(languages);
 
 ## Available Constants
 
-| Name                  | Variable Name | Type   | Example Autput                                               |
+| Name                  | Variable Name | Type   | Example Output                                               |
 | --------------------- | ------------- | ------ | ------------------------------------------------------------ |
 | Continents            | continents    | Object | { africa: { label: "Africa", code: "AF" },... }              |
 | Countries             | countries     | Array  | [{ name: "Afghanistan", dial_code: "+93", code: "AF" }, ...] |

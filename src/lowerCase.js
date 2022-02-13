@@ -1,5 +1,5 @@
-const lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
+const lowerCases = "abcdefghijklmnopqrstuvwxyz".split("");
 
 module.exports = {
-  lowerCase,
+  lowerCases,
 };

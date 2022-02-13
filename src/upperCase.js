@@ -1,5 +1,5 @@
-const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+const upperCases = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 module.exports = {
-  upperCase,
+  upperCases,
 };

@@ -7,8 +7,8 @@ const { months } = require("./src/months");
 const { islamicMonths } = require("./src/islamicMonths");
 const { continents } = require("./src/continents");
 const { specialChars } = require("./src/specialChars");
-const { upperCase } = require("./src/upperCase");
-const { lowerCase } = require("./src/lowerCase");
+const { upperCases } = require("./src/upperCases");
+const { lowerCases } = require("./src/lowerCases");
 const { numbers } = require("./src/numbers");
 
 module.exports = {
@@ -21,7 +21,7 @@ module.exports = {
   islamicMonths,
   continents,
   specialChars,
-  upperCase,
-  lowerCase,
+  upperCases,
+  lowerCases,
   numbers
 };

@@ -903,6 +903,7 @@ export const countries = [
     name: "Netherlands Antilles",
     dial_code: "+599",
     code: "AN",
+    flag: "🇳🇱",
   },
   {
     name: "New Caledonia",

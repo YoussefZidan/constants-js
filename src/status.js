@@ -1,4 +1,4 @@
-const status = {
+export const status = {
   continue: 100,
   switching_protocols: 101,
   processing: 102,
@@ -61,8 +61,4 @@ const status = {
   not_extended: 510,
   network_authentication_required: 511,
   network_connect_timeout_error: 599,
-};
-
-module.exports = {
-  status,
 };

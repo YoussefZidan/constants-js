@@ -1,5 +1,2 @@
-const specialChars = "!\"#$%&'()*+,-./:;<=>?@[]^_`{|}~".split("");
+export const specialChars = "!\"#$%&'()*+,-./:;<=>?@[]^_`{|}~".split("");
 
-module.exports = {
-  specialChars,
-};

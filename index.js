@@ -1,27 +1,12 @@
-const { languages } = require("./src/languages");
-const { countries } = require("./src/countries");
-const { duration } = require("./src/duration");
-const { status } = require("./src/status");
-const { weekDays } = require("./src/weekDays");
-const { months } = require("./src/months");
-const { islamicMonths } = require("./src/islamicMonths");
-const { continents } = require("./src/continents");
-const { specialChars } = require("./src/specialChars");
-const { upperCases } = require("./src/upperCases");
-const { lowerCases } = require("./src/lowerCases");
-const { numbers } = require("./src/numbers");
-
-module.exports = {
-  languages,
-  countries,
-  duration,
-  status,
-  weekDays,
-  months,
-  islamicMonths,
-  continents,
-  specialChars,
-  upperCases,
-  lowerCases,
-  numbers
-};
+export * from "./src/languages.js";
+export * from "./src/countries.js";
+export * from "./src/duration.js";
+export * from "./src/status.js";
+export * from "./src/weekDays.js";
+export * from "./src/months.js";
+export * from "./src/islamicMonths.js";
+export * from "./src/continents.js";
+export * from "./src/specialChars.js";
+export * from "./src/upperCases.js";
+export * from "./src/lowerCases.js";
+export * from "./src/numbers.js";

@@ -1,4 +1,4 @@
-const languages = [
+export const languages = [
   { code: "ab", name: "Abkhazian" },
   { code: "aa", name: "Afar" },
   { code: "af", name: "Afrikaans" },
@@ -188,6 +188,4 @@ const languages = [
   { code: "zu", name: "Zulu" },
 ];
 
-module.exports = {
-  languages,
-};
+

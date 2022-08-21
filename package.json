@@ -1,8 +1,9 @@
 {
   "name": "constants-js",
-  "version": "3.0.4",
+  "version": "4.0.0",
   "description": "JavaScript Reusable Constants",
   "main": "index.js",
+  "type": "module",
   "keywords": [
     "continents",
     "countries",

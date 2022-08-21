@@ -13,9 +13,6 @@ npm i constants-js
 ## Usage
 
 ```js
-// Node
-const { languages } = require("constants-js");
-
 // ES6
 import { languages } from "constants-js";
 

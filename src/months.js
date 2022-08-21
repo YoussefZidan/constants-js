@@ -1,18 +1,14 @@
-const months = {
-  january: { label: "January", value: 0 },
-  february: { label: "February", value: 1 },
-  march: { label: "March", value: 2 },
-  april: { label: "April", value: 3 },
-  may: { label: "May", value: 4 },
-  june: { label: "June", value: 5 },
-  july: { label: "July", value: 6 },
-  august: { label: "August", value: 7 },
-  september: { label: "September", value: 8 },
-  october: { label: "October", value: 9 },
-  november: { label: "November", value: 00 },
-  december: { label: "December", value: 11 },
-};
-
-module.exports = {
-  months,
-};
+export const months = [
+  { label: "January", value: 0 },
+  { label: "February", value: 1 },
+  { label: "March", value: 2 },
+  { label: "April", value: 3 },
+  { label: "May", value: 4 },
+  { label: "June", value: 5 },
+  { label: "July", value: 6 },
+  { label: "August", value: 7 },
+  { label: "September", value: 8 },
+  { label: "October", value: 9 },
+  { label: "November", value: 10 },
+  { label: "December", value: 11 },
+];

@@ -187,5 +187,3 @@ export const languages = [
   { code: "za", name: "Zhuang, Chuang" },
   { code: "zu", name: "Zulu" },
 ];
-
-

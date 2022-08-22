@@ -32,6 +32,6 @@ console.log(languages);
 | Months                | months        | Array  | [{ label: "January", value: 0 }, ... ]                                             |
 | Numbers               | numbers       | Array  | ["0", "1", "2",...]                                                                |
 | special Characters    | specialChars  | Array  | ['!', '"', '#',...]                                                                |
-| Upper Case Characters | upperCases    | Array  | ["a", "b", "c",...]                                                                |
-| Week Days             | weekDays      | Array  | {{ label: "Sunday", value: 0 }, ... ]                                              |
+| Upper Case Characters | upperCases    | Array  | ["A", "B", "C",...]                                                                |
+| Week Days             | weekDays      | Array  | [{ label: "Sunday", value: 0 }, ... ]                                              |
 | Status                | status        | Object | { continue: 100, switching_protocols: 101, processing: 102 }                       |

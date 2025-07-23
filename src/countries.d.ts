@@ -1,0 +1,1 @@
+export const countries: Array<{ label: string; code: string }> = [];

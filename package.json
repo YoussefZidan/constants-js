@@ -1,6 +1,6 @@
 {
   "name": "constants-js",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "JavaScript Reusable Constants",
   "main": "index.js",
   "type": "module",
